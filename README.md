@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,30)&text=Lee%20Byeongju&reversal=false&fontAlign=50&textBg=false)  
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,30&text=Lee%20Byeongju&reversal=false&fontAlign=50&textBg=false)  
 
 <!--
 **ghghgj/ghghgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
