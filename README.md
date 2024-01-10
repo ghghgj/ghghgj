@@ -13,7 +13,7 @@
     <a href="mailto:wcn05217@naver.com">
         <img src="https://img.shields.io/badge/Mail-03C75A?style=for-the-badge&logo=Mail.Ru&logoColor=white"> 
     </a>
-    <a href="https://spiritual-shell-977.notion.site/3f7237516ce344e2a94a5ec830d26bfe?pvs=4">
+    <a href="https://leebyeongju.notion.site/3f7237516ce344e2a94a5ec830d26bfe?pvs=4">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 
